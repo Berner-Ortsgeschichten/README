@@ -10,3 +10,8 @@ Auf dieser GitHub-Seite sind verschiedene Ressourcen zum Projekt verfügbar:
 - BEOT: Die BErnerOrtsTabelle enthält für Berner Ortschaften aus den Berner Ortsgeschichten die IDs für Wikidata, das Historisches Lexikon der Schweiz, ortsnamen.ch und die GND-ID.
 - BEOG_Pythonscript: Dieses Script lädt über eine SRU-Abfrage aus Alma die Metadaten (MARCXML) der Titel herunter, welche mit "bbggr" kodiert sind. Danach extrahiert es die Titeldaten und die GND-ID für den Ort, welcher in der Ortsgeschichte beschrieben wird. Über die BEOT werden die Q-IDs hinzugefügt, mit welchen danach aus Wikidata die gewünschten Daten (Koordinaten, Wappen und Webseite der Gemeinde, Wikipedia- und geo.admin.ch-Link) heruntergeladen werden.
 - Linked-Data-Modell-BEOG: Beschreibung des Datasets der "Berner Ortsgeschichten ab 1975" als Linked Data Modell in RDF-Turtle.
+
+Kontakt:
+- Technische Fragen: rene.frei@unibe.ch
+- Inhaltliche Fragen: thomas.hayoz@unibe.ch
+- Ähnliche Projekte: ds.ub@unibe.ch
